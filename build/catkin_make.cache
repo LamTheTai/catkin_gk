@@ -1,0 +1,2 @@
+arm_robot:mobile_robot:my_control
+-DCATKIN_DEVEL_PREFIX=/home/anhtat/catkin_gk/devel -DCMAKE_INSTALL_PREFIX=/home/anhtat/catkin_gk/install -G Unix Makefiles
